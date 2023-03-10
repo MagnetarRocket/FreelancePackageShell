@@ -3,7 +3,7 @@ A GUI-frontend for package-management systems, uses a system of plug-in's that a
 
 RTM package-management systems supported(at version 1x) are:
 * IPS
-* APT
+* ~~APT~~
 * SRV4-packages
 * ZAP
 * PkgSrc
