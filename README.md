@@ -9,4 +9,4 @@ RTM package-management systems supported(at version 1x) are:
 * PkgSrc
 
 If this sounds like packageKit, well i found out that bit after thinking this one up.
-It has the requirements of the GTK+ toolkit, Version 2x
+It has the requirements of the GTK+ toolkit, Version 2x as a minium.
